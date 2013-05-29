@@ -14,9 +14,11 @@ Also include lol.js from: https://code.google.com/p/loljs/
 
 
 And then use lolcode:
+
     <script type='text/lolcode'>
         HAI
             VISIBLE "OHAI WERLD"
         KTHXBAI
     </script>
 
+KTHXBAI
